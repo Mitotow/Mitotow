@@ -1,7 +1,8 @@
-# 🎃 About Me
+# 🙋‍♂️ About Me
 ---
-* 📔 Second year student at IUT of Nantes
-* 🔎 Looking for a work-study placement for my third year
+* 📔 Second year student at IUT of Nantes in 🇫🇷
+* 🔎 Looking for a work-study placement for my third year (If interested, send me an [email](mailto:thomas@ambroise.io?subject=[GitHub]%20Work-Study%20placement))
+* 🏠 Check out my portfolio [here](https://thomas-ambroise.fr) !
 # ⌨ Languages & Frameworks
 ---
 ![HTML5](./icons/HTML.svg)
@@ -12,7 +13,7 @@
 ![JAVA](./icons/Java-Dark.svg)
 ![KOTLIN](./icons/Kotlin-Dark.svg)
 ![ANGULAR](./icons/Angular-Dark.svg)
-# 🔧 Languages & Frameworks In Learn
+# 👨‍🎓 Languages & Frameworks In Learn
 ---
 ![CPP](./icons/CPP.svg)
 ![CS](./icons/CS.svg)
@@ -20,7 +21,7 @@
 ![GO](./icons/GoLang.svg)
 ![REACT](./icons/React-Dark.svg)
 ![DOTNET](./icons/DotNet.svg)
-# Tools & Platforms
+# 🛠 Tools & Platforms
 ---
 ![LINUX](./icons/Linux-Dark.svg)
 ![GIT](./icons/Git.svg)
@@ -30,6 +31,6 @@
 ![POSTGRESQL](./icons/PostgreSQL-Dark.svg)
 ![VIM](./icons/NeoVim-Dark.svg)
 ![POSTMAN](./icons/Postman.svg)
-# My github stats
+# 📈 My github stats
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitotow&show_icons=true&theme=tokyonight)
