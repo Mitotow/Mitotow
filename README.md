@@ -32,7 +32,6 @@
 ![NODEJS](./icons/NodeJS-Dark.svg)
 ![MySQL](./icons/MySQL-Dark.svg)
 ![POSTMAN](./icons/Postman.svg)
-# 📈 My github stats
+# 📈 My most used languages on GitHub
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mitotow&show_icons=true&theme=tokyonight)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitotow&layout=compact&theme=tokyonight)
