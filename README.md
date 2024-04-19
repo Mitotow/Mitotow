@@ -1,7 +1,7 @@
 # 🙋‍♂️ About Me
 ---
 * 📔 Second year student at IUT of Nantes in 🇫🇷
-* 🔎 Looking for a work-study placement for my third year (If interested, send me an [email](mailto:thomas@ambroise.io?subject=[GitHub]%20Work-Study%20placement))
+* 👨‍💼 Software Engineer at CGI France
 * 🏠 Check out my portfolio [here](https://thomas-ambroise.fr) !
 # ⌨ Programmation
 ## Languages & Frameworks
