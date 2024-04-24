@@ -1,7 +1,7 @@
 # 🙋‍♂️ About Me
 ---
 * 📔 Second year student at IUT of Nantes in 🇫🇷
-* 👨‍💼 Software Engineer at CGI France
+* 👨‍💼 Intern Software Engineer at CGI France
 * 🏠 Check out my portfolio [here](https://thomas-ambroise.fr) !
 # ⌨ Programmation
 ## Languages & Frameworks
