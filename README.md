@@ -34,4 +34,5 @@
 ![POSTMAN](./icons/Postman.svg)
 # 📈 My most used languages on GitHub
 ---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mitotow&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitotow&layout=compact&theme=tokyonight)
